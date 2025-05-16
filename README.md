@@ -3,7 +3,7 @@
 This repository contains the implementation of two reinforcement learning algorithms — **Value Iteration** and **Q-Learning** — applied to the FrozenLake-v1 environment from OpenAI Gym.
 
 ## 🧊 Environment
-![FrozenLake](image/frozen_lake.gif)
+![FrozenLake](frozen_lake.gif)
 
 - **S**: Start
 - **F**: Frozen surface

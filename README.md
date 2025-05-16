@@ -1,6 +1,14 @@
-# Reinforcement Learning Assignment – Cairo University
+# Frozen Lake-V1 Reinforcement Learning
 
-This repository contains the implementation of two reinforcement learning algorithms — **Value Iteration** and **Q-Learning** — applied to the FrozenLake-v1 environment from OpenAI Gym. The work was submitted as part of the AI424 course at Cairo University.
+This repository contains the implementation of two reinforcement learning algorithms — **Value Iteration** and **Q-Learning** — applied to the FrozenLake-v1 environment from OpenAI Gym.
+
+## 🧊 Environment
+![FrozenLake](image/frozen_lake.gif)
+
+- **S**: Start
+- **F**: Frozen surface
+- **H**: Hole (fall ends episode)
+- **G**: Goal (reward +1)
 
 ## 📄 Contents
 
@@ -66,8 +74,4 @@ Official documentation for Gym environments, including FrozenLake.
 
 ---
 
-## ▶️ How to Run
 
-1. Install the required libraries:
-   ```bash
-   pip install gym matplotlib numpy
